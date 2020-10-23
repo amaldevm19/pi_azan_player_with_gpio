@@ -1,0 +1,18 @@
+{
+  "name": "azan-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amaldev",
+  "license": "ISC",
+  "dependencies": {
+    "adhan": "^4.0.1",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.31",
+    "onoff": "^6.0.1",
+    "play-sound": "^1.1.3"
+  }
+}
